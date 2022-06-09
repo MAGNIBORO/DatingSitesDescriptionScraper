@@ -1,0 +1,14 @@
+{
+	"badoo": {
+	  "headless" : true,
+	  "username": "username",
+	  "password": "password",
+	  "profile_qty" : 30
+	},
+	"tinder_facebook": {
+	  "headless" : true,
+	  "username": "username",
+	  "password": "password",
+	  "profile_qty" : 30
+	}
+  }
